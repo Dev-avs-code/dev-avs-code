@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arturo Villares</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avs17&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
-<img src="https://github.com/AVS17/AVS17/blob/7eac47bcbe2e5fabfeffb635fe76cda7015a630f/header%20background.png">
+<img src="https://github.com/Dev-avs-code/dev-avs-code/blob/3d48733d745a87296720afee4558df725c323240/new%20header%20background.png">
 <p align="center">
   <a ><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
